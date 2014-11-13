@@ -1,0 +1,3671 @@
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 1
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 1
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 2
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 2
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 3
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 3
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 4
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 4
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 5
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 5
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 6
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 6
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 7
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 7
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 8
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 8
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 9
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 9
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 10
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 10
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=125.00532
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 11
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 11
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=125.14833
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 12
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 12
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=125.305244
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 13
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 13
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=125.50561
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 14
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 14
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=125.80563
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 15
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 15
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=126.256546
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 16
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 16
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=126.89292
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 17
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 17
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=127.726906
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 18
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 18
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=128.74852
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 19
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 19
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=129.93042
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 20
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 20
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=131.23479
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 21
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 21
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=132.62007
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 22
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 22
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=134.04622
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 23
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 23
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=135.47816
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 24
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 24
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=136.88756
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 25
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 25
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=138.25328
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 26
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 26
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=139.56085
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 27
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 27
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=140.80144
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 28
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 28
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=141.97081
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 29
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 29
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=143.07162
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 30
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 30
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=144.11862
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 31
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 31
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=145.14001
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 32
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 32
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=146.16881
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 33
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 33
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=147.22827
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 34
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 34
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=148.32939
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 35
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 35
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=149.47314
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 36
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 36
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 0 Stage 2 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$1: Estimator Z=150.65363
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 37
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 37
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 38
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 38
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 39
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 39
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 40
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 40
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 41
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 41
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 42
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 42
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 43
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 43
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 44
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 44
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 45
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 45
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 46
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 46
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 47
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 47
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 48
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 48
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 49
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 49
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 50
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 50
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 51
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 51
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 52
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 52
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 53
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 53
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 54
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 54
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 55
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 55
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 56
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 56
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 57
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 57
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 58
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 58
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 59
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 59
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 60
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 60
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 61
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 61
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 62
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 62
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 63
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 63
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 64
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 64
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 65
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 65
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 66
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 66
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 67
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 67
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 68
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 68
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 69
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 69
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 70
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 70
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 71
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 71
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 72
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 72
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 73
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 73
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 74
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 74
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 75
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 75
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 76
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 76
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 77
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 77
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 78
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 78
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 79
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 79
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 80
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 80
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 81
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 81
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 82
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 82
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 83
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 83
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 84
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 84
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 85
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 85
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 86
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 86
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 87
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 87
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 88
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 88
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 89
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 89
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 90
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 90
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 91
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 91
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 92
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 92
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 93
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 93
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 94
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 94
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 95
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 95
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 96
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 96
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 97
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 97
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 98
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 98
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 99
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 99
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 100
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 100
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 101
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 101
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 102
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 102
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 103
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 103
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 104
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 104
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 105
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 105
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 106
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 106
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 107
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 107
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 108
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 108
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 109
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 109
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 110
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 110
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 111
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 111
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$6: Current position: [31.653238,-157.11996,169.12183]
+papabench.core.commons.data.impl.Simple03FlightPlan$6: WP 1 [0.0,0.0,200.0] reached! Going to the next stage
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 112
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 112
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 113
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 113
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 114
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 114
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 115
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 115
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 116
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 116
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 117
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 117
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 118
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 118
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 119
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 119
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 120
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 120
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 121
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 121
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 122
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 122
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 123
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 123
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 124
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 124
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 125
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 125
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 126
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 126
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 127
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 127
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 128
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 128
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 129
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 129
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 130
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 130
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 131
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 131
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 132
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 132
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 133
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 133
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 134
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 134
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 135
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 135
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 136
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 136
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 137
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 137
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 138
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 138
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 139
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 139
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 140
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 140
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 141
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 141
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 142
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 142
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 143
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 143
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 144
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 144
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 145
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 145
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 146
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 146
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 147
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 147
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 148
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 148
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 149
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 149
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 150
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 150
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 151
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 151
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 152
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 152
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 153
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 153
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 154
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 154
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 155
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 155
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 156
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 156
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 157
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 157
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 158
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 158
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 159
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 159
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 160
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 160
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 161
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 161
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 162
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 162
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 163
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 163
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 164
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 164
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 165
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 165
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 166
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 166
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 167
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 167
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 168
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 168
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 169
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 169
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 170
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 170
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 171
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 171
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 172
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 172
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 173
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 173
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 174
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 174
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 175
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 175
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 176
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 176
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 177
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 177
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 178
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 178
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 179
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 179
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 180
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 180
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 181
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 181
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 182
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 182
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 183
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 183
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 184
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 184
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 185
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 185
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 186
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 186
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 187
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 187
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 188
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 188
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 189
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 189
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 190
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 190
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 191
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 191
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 192
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 192
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 193
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 193
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 194
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 194
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 195
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 195
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 196
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 196
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 197
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 197
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 198
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 198
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 199
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 199
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 200
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 200
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 201
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 201
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 202
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 202
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 203
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 203
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 204
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 204
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 205
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 205
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 206
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 206
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 207
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 207
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 208
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 208
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 209
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 209
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 210
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 210
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 211
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 211
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 212
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 212
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 213
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 213
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 214
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 214
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 215
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 215
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 216
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 216
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 217
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 217
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 218
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 218
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 219
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 219
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 220
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 220
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 221
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 221
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 222
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 222
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 223
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 223
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 224
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 224
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 225
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 225
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 226
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 226
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 227
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 227
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 228
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 228
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 229
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 229
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 230
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 230
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 231
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 231
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 232
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 232
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 233
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 233
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 234
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 234
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 235
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 235
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 236
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 236
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 237
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 237
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 238
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 238
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 239
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 239
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 240
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 240
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 241
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 241
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 242
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 242
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 243
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 243
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 244
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 244
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 245
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 245
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 246
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 246
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 247
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 247
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 248
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 248
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 249
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 249
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 250
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 250
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 251
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 251
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 252
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 252
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 253
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 253
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 254
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 254
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 255
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 255
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 256
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 256
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 257
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 257
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 258
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 258
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 259
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 259
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 260
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 260
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 261
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 261
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 262
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 262
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 263
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 263
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 264
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 264
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 265
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 265
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 266
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 266
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 267
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 267
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 268
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 268
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 269
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 269
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 270
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 270
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 271
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 271
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 272
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 272
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 273
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 273
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 274
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 274
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 275
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 275
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 276
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 276
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 277
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 277
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$5: Current position: [-82.007324,192.94246,169.15948]
+papabench.core.commons.data.impl.Simple03FlightPlan$5: WP 4 [156.7,0.0,200.0] reached! Going to the next stage
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 278
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 278
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 2 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 279
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 279
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 280
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 280
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 281
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 281
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 282
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 282
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 283
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 283
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 284
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 284
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 285
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 285
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 286
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 286
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 287
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 287
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 288
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 288
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 289
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 289
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 290
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 290
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 291
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 291
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 292
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 292
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 293
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 293
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 294
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 294
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 295
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 295
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 296
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 296
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 297
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 297
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 298
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 298
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 299
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 299
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 300
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 300
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 301
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 301
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 302
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 302
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 303
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 303
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 304
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 304
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 305
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 305
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 306
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 306
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 307
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 307
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 308
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 308
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 309
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 309
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 310
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 310
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 311
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 311
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 312
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 312
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 313
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 313
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 314
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 314
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 315
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 315
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 316
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 316
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 317
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 317
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 318
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 318
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 319
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 319
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 320
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 320
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 321
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 321
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 322
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 322
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 323
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 323
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 324
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 324
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 325
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 325
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 326
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 326
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 327
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 327
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 328
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 328
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 329
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 329
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 330
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 330
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 331
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 331
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 332
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 332
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 333
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 333
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 334
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 334
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 335
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 335
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 336
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 336
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 337
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 337
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 338
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 338
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 339
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 339
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 340
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 340
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 341
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 341
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 342
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 342
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 343
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 343
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 344
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 344
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 345
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 345
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 346
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 346
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 347
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 347
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 348
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 348
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 349
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 349
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 350
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 350
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 351
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 351
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 352
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 352
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 353
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 353
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 354
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 354
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 355
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 355
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 356
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 356
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 357
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 357
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 358
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 358
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 359
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 359
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 360
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 360
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 361
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 361
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 362
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 362
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 363
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 363
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 364
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 364
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 365
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 365
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 366
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 366
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 367
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 367
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 368
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 368
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 369
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 369
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 370
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 370
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 371
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 371
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 372
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 372
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 373
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 373
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 374
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 374
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 375
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 375
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 376
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 376
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 377
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 377
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 378
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 378
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 379
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 379
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 380
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 380
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 381
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 381
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 382
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 382
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 383
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 383
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 384
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 384
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 385
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 385
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 386
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 386
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 387
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 387
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 388
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 388
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 389
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 389
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 390
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 390
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 391
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 391
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 392
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 392
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 393
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 393
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 394
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 394
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 395
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 395
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 396
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 396
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 397
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 397
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 398
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 398
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 399
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 399
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 400
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 400
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 401
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 401
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 402
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 402
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 403
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 403
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 404
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 404
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 405
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 405
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 406
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 406
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 407
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 407
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 408
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 408
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 409
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 409
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 410
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 410
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 411
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 411
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 412
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 412
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 413
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 413
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 414
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 414
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 415
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 415
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 416
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 416
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 417
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 417
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 418
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 418
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 419
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 419
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 420
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 420
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 421
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 421
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 422
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 422
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 423
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 423
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 424
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 424
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 425
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 425
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 426
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 426
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 427
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 427
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 428
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 428
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 429
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 429
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 430
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 430
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 431
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 431
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 432
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 432
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 433
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 433
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 434
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 434
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 435
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 435
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$6: Current position: [273.88693,110.812614,166.55103]
+papabench.core.commons.data.impl.Simple03FlightPlan$6: WP 1 [0.0,0.0,200.0] reached! Going to the next stage
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 436
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 436
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 437
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 437
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 438
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 438
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 439
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 439
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 440
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 440
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 441
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 441
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 442
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 442
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 443
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 443
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 444
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 444
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 445
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 445
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 446
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 446
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 447
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 447
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 448
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 448
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 449
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 449
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 450
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 450
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 451
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 451
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 452
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 452
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 453
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 453
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 454
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 454
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 455
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 455
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 456
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 456
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 457
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 457
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 458
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 458
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 459
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 459
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 460
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 460
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 461
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 461
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 462
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 462
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 463
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 463
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 464
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 464
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 465
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 465
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 466
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 466
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 467
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 467
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 468
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 468
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 469
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 469
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 470
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 470
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 471
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 471
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 472
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 472
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 473
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 473
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 474
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 474
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 475
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 475
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 476
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 476
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 477
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 477
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 478
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 478
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 479
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 479
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 480
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 480
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 481
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 481
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 482
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 482
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 483
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 483
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 484
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 484
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 485
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 485
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 486
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 486
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 487
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 487
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 488
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 488
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 489
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 489
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 490
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 490
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 491
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 491
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 492
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 492
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 493
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 493
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 494
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 494
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 495
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 495
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 496
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 496
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 497
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 497
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 498
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 498
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 499
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 499
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 500
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 500
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 501
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 501
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 502
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 502
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 503
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 503
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 504
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 504
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 505
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 505
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 506
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 506
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 507
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 507
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 508
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 508
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 509
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 509
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 510
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 510
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 511
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 511
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 512
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 512
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 513
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 513
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 514
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 514
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 515
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 515
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 516
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 516
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 517
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 517
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 518
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 518
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 519
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 519
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 520
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 520
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 521
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 521
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 522
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 522
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 523
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 523
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 524
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 524
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 525
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 525
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 526
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 526
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 527
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 527
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 528
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 528
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 529
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 529
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 530
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 530
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 531
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 531
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 532
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 532
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 533
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 533
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 534
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 534
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 535
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 535
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 536
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 536
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 537
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 537
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 538
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 538
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 539
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 539
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 540
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 540
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 541
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 541
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 1 executed
+papabench.core.commons.data.impl.Simple03FlightPlan$5: Current position: [298.16016,-151.92094,165.55899]
+papabench.core.commons.data.impl.Simple03FlightPlan$5: WP 4 [156.7,0.0,200.0] reached! Going to the next stage
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 542
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 542
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 2 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 543
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 543
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 544
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 544
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 545
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 545
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 546
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 546
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 547
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 547
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 548
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 548
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 549
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 549
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 550
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 550
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 551
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 551
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 552
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 552
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 553
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 553
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 554
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 554
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 555
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 555
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 556
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 556
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 557
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 557
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 558
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 558
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 559
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 559
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 560
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 560
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 561
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 561
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 562
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 562
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 563
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 563
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 564
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 564
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 565
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 565
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 566
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 566
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 567
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 567
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 568
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 568
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 569
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 569
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 570
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 570
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 571
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 571
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 572
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 572
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 573
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 573
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 574
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 574
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 575
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 575
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 576
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 576
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 577
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 577
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 578
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 578
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 579
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 579
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 580
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 580
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 581
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 581
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 582
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 582
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 583
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 583
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 584
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 584
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 585
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 585
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 586
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 586
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 587
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 587
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 588
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 588
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 589
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 589
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 590
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 590
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 591
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 591
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 592
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 592
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 593
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 593
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 594
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 594
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 595
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 595
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 596
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 596
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 597
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 597
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 598
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 598
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 599
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 599
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 600
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 600
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 601
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 601
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 602
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 602
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 603
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 603
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 604
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 604
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 605
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 605
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
+papabench.core.autopilot.modules.impl.EstimatorModuleImpl: Flight time = 606
+papabench.core.autopilot.tasks.handlers.NavigationTaskHandler: 
+
+
+============================ Navigation cycle: 606
+papabench.core.commons.data.impl.AbstractFlightPlan$NavigationBlock: Block 1 Stage 0 executed
